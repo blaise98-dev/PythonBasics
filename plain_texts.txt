@@ -1,0 +1,7 @@
+2 apps: * validation in circle *client satisfactory(face recognition)
+
+*resend email on tool
+* add name on supporter name
+* resolve 2 versions input
+* status to show email status and resend
+* (branch name, supported function name, task_name) byaba byiza ibaye dropdown kurusha live search
